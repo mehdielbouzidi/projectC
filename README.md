@@ -1,6 +1,6 @@
 # ProjectC - Monkey.io
 
-Written following scripts:
+Cotnributed to the following scripts:
 
 WebApplication1 -> Pages -> Shoppingcart.cs
 
